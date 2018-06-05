@@ -1,0 +1,11 @@
+{
+  "name": "lemonjs-ei",
+  "version": "1.0.0",
+  "description": "evil icons library for lemon",
+  "license": "MIT",
+  "main": "main.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemon/lemonjs-ei"
+  }
+}
